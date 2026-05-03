@@ -1,0 +1,7 @@
+Django>=4.0
+pillow
+pytesseract
+scikit-learn
+numpy
+sentence-transformers
+gunicorn
